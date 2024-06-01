@@ -1,0 +1,59 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Playstation 1",
+      "preco": 50.00,
+      "imagem": "https://images.pexels.com/photos/4219892/pexels-photo-4219892.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Playstation 2",
+      "preco": 100.00,
+      "imagem": "https://images.unsplash.com/photo-1706531008240-5443a463f9f4?q=80&w=1633&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,  
+      "nome": "Playstation 3",
+      "preco": 150.00,
+      "imagem": "https://i.pinimg.com/originals/09/cd/f5/09cdf50dbbce8d50bdcb45ccb44e055f.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Playstation 4",
+      "preco": 200.00,
+      "imagem": "https://images.unsplash.com/photo-1486401899868-0e435ed85128?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "nome": "Playstation 5",
+      "preco": 500.00,
+      "imagem": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "nome": "X Box",
+      "preco": 50.00,
+      "imagem": "https://files.tecnoblog.net/wp-content/uploads/2017/06/xbox_original-700x420.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "X Box 360",
+      "preco": 120.00,
+      "imagem": "https://cdn.awsli.com.br/600x1000/259/259434/produto/117477212/824a246ea5.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "X Box One",
+      "preco": 160.00,
+      "imagem": "https://s.zst.com.br/cms-assets/2022/12/-foto5xbox-xbox-one-lancamento-microsoft-linha-tempo.webp"
+    },
+    {
+      "id": 9,
+      "nome": "X Box Series",
+      "preco": 300.00,
+      "imagem": "https://s.zst.com.br/cms-assets/2022/12/bed3a476-839e-4ce3-987d-df869ea5d10e.webp"
+    }
+
+  ]
+}
